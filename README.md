@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayoubzkr.Ayoubzkr" alt="Visitor counter" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayoubzkr.Ayoubzkr&" alt="Visitor counter" />
 </div>
 
 ###
@@ -28,11 +28,12 @@
 <h3 align="left">👨‍💻 À propos de moi</h3>
 
 <p align="left">
-Je suis Ayoub Zokri, un développeur informatique passionné, spécialisé dans la création de solutions technologiques innovantes adaptées aux besoins des utilisateurs.  
+Je suis Ayoub Zokri, un développeur passionné par la création de solutions technologiques innovantes et performantes. Mon expertise se situe à l'intersection du développement back-end et front-end, avec une spécialisation en **Laravel** pour le back-end et **React** pour le front-end.  
 <br><br>
-- 🔭 Actuellement, je travaille sur des projets de gestion et des solutions web dynamiques.  
-- 📚 J’explore constamment de nouvelles technologies et je me perfectionne en **React**, <a href="https://laravel.com/" target="_blank">**Laravel**</a> et <a href="https://tailwindcss.com/" target="_blank">**Tailwind CSS**</a>.  
-- ⚡ Dans mon temps libre, j’aime relever des défis en programmation, contribuer à des projets open source et apprendre de nouvelles méthodologies de développement.
+- 🔭 Actuellement, je travaille sur des projets de gestion et des applications web dynamiques en utilisant **Laravel** et **React**.  
+- 📚 J’approfondis mes connaissances en **Tailwind CSS**, **Next.js**, et **TypeScript** pour créer des interfaces utilisateur modernes et réactives.  
+- ⚡ Dans mon temps libre, j’aime contribuer à des projets open source, résoudre des problèmes complexes et explorer de nouvelles technologies.  
+- 💬 N'hésitez pas à me contacter pour discuter de collaborations ou de projets innovants !
 </p>
 
 ###
@@ -49,7 +50,10 @@ Je suis Ayoub Zokri, un développeur informatique passionné, spécialisé dans 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
@@ -64,11 +68,8 @@ Je suis Ayoub Zokri, un développeur informatique passionné, spécialisé dans 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  
   <img width="12" />
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
 </div>
 
 ###
