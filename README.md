@@ -51,9 +51,8 @@ Je suis Ayoub Zokri, un développeur passionné par la création de solutions te
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel logo" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/langfr-2560px-Laravel.svg.png" height="40" alt="Laravel" />
   <img width="12" />
- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
